@@ -15,7 +15,9 @@
 
 ### ☀️ By day, I’m:
 - a coder, wrangling JavaScript into submission 💻
+- a climbing instructor, teaching people to conquer new heights 🧗
 - a guitarist, strumming away my stress 🎸
+- a <a href="https://schoolofcode.co.uk/">School of Code</a> bootcamper, expanding my skills daily 🎓
 - a brother, a son, and a friend 👨‍👩‍👧‍👦
 - a sports player (but *not* a watcher!) 🎾
 - a gamer with questionable skills but high spirits 🎮
