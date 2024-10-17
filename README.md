@@ -3,14 +3,36 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/
-abhiparth-shrestha-564781316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 10px"></a>
+  abhiparth-shrestha-564781316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"     style="margin-right: 10px">
+  </a>
+  <a href="mailto:abhiparth@hotmail.co.uk">
   <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-abhiparth@hotmail.co.uk-seagreen" height="28" style="margin-left: 4px">
+  </a>
+  <sup>(Copy: abhiparth@hotmail.co.uk)</sup>
 </p>
 
-## About me:
-<p>
-I am a...
-</p>
+## About Me:
+
+### ☀️ By day, I’m:
+- a coder, wrangling JavaScript into submission 💻
+- a guitarist, strumming away my stress 🎸
+- a brother, a son, and a friend 👨‍👩‍👧‍👦
+- a sports player (but *not* a watcher!) 🎾
+- a gamer with questionable skills but high spirits 🎮
+
+### 🌃 And by night?
+&nbsp;&nbsp;&nbsp;&nbsp;Well, I'm...
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;uh...
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;*…a dreamer, maybe?* 🤔
+
+
+
+
+
 
 ## Skills - current and past:
 
@@ -23,11 +45,9 @@ I am a...
 |    **DevSecOps**    | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
 |    **Testing**      | [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)|
 
-## Other tools
-### Communication & Collaboration
+### Communication & Collaboration tools
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#) [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=red)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
-### Other
+### Other tools
 [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
 
 <!--
